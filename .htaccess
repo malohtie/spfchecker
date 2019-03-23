@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Please Login"
+AuthUserFile /var/www/html/spf/.htpwd
+Require valid-user
