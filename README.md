@@ -11,8 +11,8 @@ after that place your spf folder in your html directory and give the folder that
 
 then configure the path to htpwd in htaccess or simply remove it the default login and password is admin:12345
 
-[Imgur](https://i.imgur.com/EA033Tr.png)
+![](https://i.imgur.com/EA033Tr.png)
 
 You can also check domains manually:
  
-[Imgur](https://i.imgur.com/i7mstoD.png)
+![](https://i.imgur.com/i7mstoD.png)
