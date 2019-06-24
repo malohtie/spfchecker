@@ -16,3 +16,5 @@ then configure the path to htpwd in htaccess or simply remove it the default log
 You can also check domains manually:
  
 ![](https://i.imgur.com/i7mstoD.png)
+
+**tested in centos/apache/php7.3
