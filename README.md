@@ -17,4 +17,4 @@ You can also check domains manually:
  
 ![](https://i.imgur.com/i7mstoD.png)
 
-**tested in centos/apache/php7.3
+**tested in centos/apache/php7.3**
